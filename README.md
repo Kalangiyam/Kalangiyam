@@ -1,11 +1,11 @@
 # Kalangiyam's Full Stack Developer Portfolio
 
-Hello! I'm Kalangiyam, a self-taught Data Analyst based in Tamilnadu, India. I hold a B.Sc. in Mathematics and an M.Sc. in Mathematics. I've been on a learning journey to master various data analysis tools and techniques to pursue a rewarding career in the field of data analytics.
+Hello! I'm Kalangiyam, a passionate Full Stack Developer from Tamil Nadu, India. Skilled in Python, Django, JavaScript, MySQL, HTML, CSS, and Bootstrap. I enjoy building dynamic, data-driven web applications and continuously learning new technologies to create efficient and user-friendly solutions.
 
 ## About Me
 
 - 🎓 Education: B.Sc. Mathematics, M.Sc. Mathematics, B.Ed. Mathematics
-- 💻 Role: Full Stack Developer (Python | Django | JavaScript | MySQL)
+- 💻 Role: Full Stack Developer (Python | Django | JavaScript | Bootstrap | MySQL)
 - 🌍 Location: Tamil Nadu, India
 - 🔍 Focus Areas: Backend development, database design, and responsive UI
 
